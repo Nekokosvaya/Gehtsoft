@@ -9,6 +9,6 @@ public class Main {
         System.out.printf("Hello World!");
         System.out.println("Hello World!"); // This line is highlighted as a warning
         System.out.println("Hello HW02!"); // This line is highlighted as a warning
-
+    // Delete hw02
     }
 }
